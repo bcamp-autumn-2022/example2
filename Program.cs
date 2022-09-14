@@ -2,7 +2,11 @@
 int age;
 string fname;
 int b_year;
+<<<<<<< HEAD
 Console.WriteLine("What is your Firstname?");
+=======
+Console.WriteLine("Tell me your Firstname?");
+>>>>>>> main
 fname=Console.ReadLine();
 Console.WriteLine("Hello "+fname);
 Console.WriteLine("How old are you?");
